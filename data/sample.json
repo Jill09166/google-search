@@ -1,0 +1,11 @@
+[
+    {
+        "query": "example",
+        "title": "Example Result",
+        "url": "https://example.com",
+        "snippet": "Sample snippet.",
+        "rank": 1,
+        "displayedUrl": "example.com",
+        "sourceType": "organic"
+    }
+]
